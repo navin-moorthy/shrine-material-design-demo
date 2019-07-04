@@ -37,7 +37,7 @@
 ## 🚀 Features
 
 - Basic HTML CSS Javascript Starter Project.
-- MDC Components for Styling.
+- [Material Components for the Web](https://github.com/material-components/material-components-web).
 - Sass files
 
 ## Thanks
